@@ -11,7 +11,7 @@ function showTextOnScreen(tag, text) {
 
 function firstMessage() {
     showTextOnScreen("h1", "The Secret Number Game");
-    showTextOnScreen("p", "Chose a number between 1 to 10");
+    showTextOnScreen("p", "Choose a number between 1 and 10");
 }
 
 firstMessage ();
